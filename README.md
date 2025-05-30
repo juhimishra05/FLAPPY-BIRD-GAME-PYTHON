@@ -64,7 +64,7 @@ Understanding the importance of FPS for smooth gameplay, and how to control it u
 
 ---
 
-#### Buy me a coffee 🥹:
+
 
 
 
